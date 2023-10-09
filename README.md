@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramyareddyg22
 - 👀 Robotics
-- 🌱 About Computer Vision
+- 🌱 Learn new things
 - 💞️ ML Engineer,Computer Vision Engineer
 - 📫  ramyareddyg22@gmail.com
 
